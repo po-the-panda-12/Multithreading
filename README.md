@@ -18,3 +18,7 @@ Now, because of local caching, differnet number of simulations will get differen
 
 <br>
 I found multithreading more consistent simply more efficient for simple printing programs where the ordering doesn't matter much.
+<br>
+<br>
+
+(P.S. - The code is focused on Java. The part in C was just to play around with the environment.)
